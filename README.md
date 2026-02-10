@@ -11,6 +11,7 @@ A Tampermonkey/Greasemonkey userscript that detects the **account country** of e
 ![Pantone 448 C swatch](https://img.shields.io/badge/Pantone_448_C-%234A412A?style=for-the-badge&logoColor=white)
 ![Platform](https://img.shields.io/badge/platform-X%20%2F%20Twitter-black?style=for-the-badge&logo=x)
 ![License](https://img.shields.io/badge/license-WTFPL-brightgreen?style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=promptpirate-x&repo=jeetfilter_x&color=blue&style=for-the-badge&label=repo+views" />
 
 ---
 
