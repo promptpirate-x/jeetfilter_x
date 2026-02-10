@@ -1,4 +1,6 @@
-<img src="logo.png" alt="Prompt Pirate Logo" width="200" height="200" style="border-radius: 50%;">
+<p align="center">
+  <img src="logo.png" alt="Prompt Pirate Logo" width="200" height="200">
+</p>
 
 # 💩 JeetFilterX — X Jeet Filter (Pantone 448C Version)
 
