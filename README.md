@@ -1,3 +1,5 @@
+<img src="logo.png" alt="Prompt Pirate Logo" width="200" height="200" style="border-radius: 50%;">
+
 # 💩 JeetFilterX — X Jeet Filter (Pantone 448C Version)
 
 > *"The ugliest colour in the world, now on the ugliest posts in your timeline."*
